@@ -1,0 +1,1 @@
+﻿Create table Personer(Navn nchar(25) not null, CPR nchar(11) primary key not null); 

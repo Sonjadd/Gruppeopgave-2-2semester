@@ -1,0 +1,1 @@
+﻿Create table Blodtryk(systole int NOT NULL, diastole int not null, tid datetime foreign key references Blodsukker(Tid)); 

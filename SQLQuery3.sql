@@ -1,0 +1,1 @@
+﻿Create table Vægt(Vægt real not null, Tid datetime not null foreign key references Blodsukker(Tid));
